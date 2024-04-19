@@ -12,3 +12,4 @@ Contenido del repositorio:
   - TalentoTECH_CatsVsDogs.ipynb:
   - TalentoTECH_Keras_Classi.ipynb:
   - TalentoTECH_Keras_Regre.ipynb:
+  - SKImage_TalentoTECH.ipynb:
