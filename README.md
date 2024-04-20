@@ -13,3 +13,4 @@ Contenido del repositorio:
   - TalentoTECH_Keras_Classi.ipynb:
   - TalentoTECH_Keras_Regre.ipynb:
   - SKImage_TalentoTECH.ipynb:
+  - Introduction_Convolution_TalentoTECH.ipynb:
