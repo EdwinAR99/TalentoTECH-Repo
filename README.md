@@ -14,3 +14,4 @@ Contenido del repositorio:
   - TalentoTECH_Keras_Regre.ipynb:
   - SKImage_TalentoTECH.ipynb:
   - Introduction_Convolution_TalentoTECH.ipynb:
+  - Convolutional_MNIST_TalentoTECH.ipynb:
