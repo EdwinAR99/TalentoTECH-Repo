@@ -15,3 +15,4 @@ Contenido del repositorio:
   - SKImage_TalentoTECH.ipynb:
   - Introduction_Convolution_TalentoTECH.ipynb:
   - Convolution_MNIST_TalentoTECH.ipynb:
+  - Convolution_Fashion_TalentoTECH.ipynb
