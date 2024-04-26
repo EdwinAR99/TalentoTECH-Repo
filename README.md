@@ -16,3 +16,4 @@ Contenido del repositorio:
   - Introduction_Convolution_TalentoTECH.ipynb:
   - Convolution_MNIST_TalentoTECH.ipynb:
   - Convolution_Fashion_TalentoTECH.ipynb
+  - OpenCV_TalentoTECH.ipynb:
