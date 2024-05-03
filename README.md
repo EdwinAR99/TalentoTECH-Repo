@@ -20,3 +20,4 @@ Contenido del repositorio:
   - Cats_Detection_TalentoTECH.ipynb:
   - Convolution_CIFAR_TalentoTECH.ipynb:
   - Introduction_NLTK_TalentoTECH.ipynb:
+  - NLP_Keras_TalentoTECH.ipynb:
