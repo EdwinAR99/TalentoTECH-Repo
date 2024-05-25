@@ -2,6 +2,8 @@
 
 Autor: Jesus Edwin Adrada Ruiz
 
+**LINK PROYECTO FINAL: [RAG CHATBOT](https://github.com/EdwinAR99/ChatbotRAG)**
+
 Repositorio personal de proyectos realizados en el bootcamp de Talento TECH sobre Inteligencia Artificial.
 
 Contenido del repositorio:
